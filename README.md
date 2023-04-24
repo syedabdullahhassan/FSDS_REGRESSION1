@@ -22,3 +22,7 @@ src folder
 entire lifecycle of machine learning project should run through this folder
 
 ```
+
+```
+pip install ipykernel
+```
